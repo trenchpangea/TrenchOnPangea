@@ -32,8 +32,6 @@ Contract EVM: 0xAce7CDe7527312B77295c72689F0B63F9492e6eA
 
 Contract SOL: 2NKXgYinua7GdRcUt48ocvJFeqzxMj3WsN6BXuYv86ea
 
-Trade: 
-
 ## About
 
 **$TRENCH** is a multi-chain memecoin that launches natively on **Base**, **Solana**, and **Robinhood Chain** at the same price.
