@@ -27,6 +27,11 @@
 
 ---
 
+## TRENCH coming soon
+
+Contract EVM: coming soon
+Contract SOL: coming soon
+
 ## About
 
 **$TRENCH** is a multi-chain memecoin that launches natively on **Base**, **Solana**, and **Robinhood Chain** at the same price.
