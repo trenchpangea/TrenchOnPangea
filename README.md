@@ -30,6 +30,7 @@
 ## TRENCH coming soon
 
 Contract EVM: coming soon
+
 Contract SOL: coming soon
 
 ## About
