@@ -10,7 +10,6 @@
 
 [![X](https://img.shields.io/badge/Follow-@usethistrench-black?style=for-the-badge&logo=x)](https://x.com/usethistrench)
 [![Website](https://img.shields.io/badge/Live_Demo-usetrench.fun-blue?style=for-the-badge)](https://usetrench.fun)
-[![Deployed on](https://img.shields.io/badge/Deployed_on-Vercel-black?style=for-the-badge&logo=vercel)](https://usetrench.fun)
 
 <br>
 
