@@ -50,7 +50,6 @@ One coin. No fragmentation. Same community everywhere.
 - **Next.js** — Framework
 - **TypeScript** — Language
 - **Tailwind CSS** — Styling
-- **Vercel** — Deployment
 - Multi-chain: Base • Solana • Robinhood Chain
 
 ## License
